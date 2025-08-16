@@ -1,0 +1,6113 @@
+[
+  {
+    "nome": "Meret",
+    "squadra": "Napoli",
+    "partite_a_voto": 34,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.32,
+    "fantamedia": 5.71
+  },
+  {
+    "nome": "Svilar",
+    "squadra": "Roma",
+    "partite_a_voto": 38,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.32,
+    "fantamedia": 5.38
+  },
+  {
+    "nome": "Milinkovic-Savic V.",
+    "squadra": "Torino",
+    "partite_a_voto": 37,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.3,
+    "fantamedia": 5.45
+  },
+  {
+    "nome": "De Gea",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 35,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.34,
+    "fantamedia": 5.41
+  },
+  {
+    "nome": "Carnesecchi",
+    "squadra": "Atalanta",
+    "partite_a_voto": 34,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.34,
+    "fantamedia": 5.32
+  },
+  {
+    "nome": "Sommer",
+    "squadra": "Inter",
+    "partite_a_voto": 33,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.18,
+    "fantamedia": 5.3
+  },
+  {
+    "nome": "Di Gregorio",
+    "squadra": "Juventus",
+    "partite_a_voto": 33,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.15,
+    "fantamedia": 5.18
+  },
+  {
+    "nome": "Maignan",
+    "squadra": "Milan",
+    "partite_a_voto": 37,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.18,
+    "fantamedia": 5.14
+  },
+  {
+    "nome": "Caprile",
+    "squadra": "Cagliari",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.2,
+    "fantamedia": 5.16
+  },
+  {
+    "nome": "Skorupski",
+    "squadra": "Bologna",
+    "partite_a_voto": 27,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 5.04
+  },
+  {
+    "nome": "Leali",
+    "squadra": "Genoa",
+    "partite_a_voto": 29,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.16,
+    "fantamedia": 5.1
+  },
+  {
+    "nome": "Mandas",
+    "squadra": "Lazio",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.28,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Falcone",
+    "squadra": "Lecce",
+    "partite_a_voto": 38,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.26,
+    "fantamedia": 4.79
+  },
+  {
+    "nome": "Suzuki",
+    "squadra": "Parma",
+    "partite_a_voto": 37,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.22,
+    "fantamedia": 4.76
+  },
+  {
+    "nome": "Vasquez D.",
+    "squadra": "Empoli",
+    "partite_a_voto": 32,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.02,
+    "fantamedia": 4.67
+  },
+  {
+    "nome": "Turati",
+    "squadra": "Monza",
+    "partite_a_voto": 30,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.3,
+    "fantamedia": 4.75
+  },
+  {
+    "nome": "Butez",
+    "squadra": "Como",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.22,
+    "fantamedia": 5.22
+  },
+  {
+    "nome": "Martinez Jo.",
+    "squadra": "Inter",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.3,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "Okoye",
+    "squadra": "Udinese",
+    "partite_a_voto": 25,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.1,
+    "fantamedia": 4.4
+  },
+  {
+    "nome": "Montipo'",
+    "squadra": "Verona",
+    "partite_a_voto": 36,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.19,
+    "fantamedia": 4.44
+  },
+  {
+    "nome": "Stankovic F.",
+    "squadra": "Venezia",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.6,
+    "fantamedia": 5.23
+  },
+  {
+    "nome": "Radu I.",
+    "squadra": "Venezia",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.47,
+    "fantamedia": 5.23
+  },
+  {
+    "nome": "Provedel",
+    "squadra": "Lazio",
+    "partite_a_voto": 29,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.98,
+    "fantamedia": 4.53
+  },
+  {
+    "nome": "Ravaglia F.",
+    "squadra": "Bologna",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 4.83
+  },
+  {
+    "nome": "Musso",
+    "squadra": "Atalanta",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Sava",
+    "squadra": "Udinese",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.04,
+    "fantamedia": 4.67
+  },
+  {
+    "nome": "Reina",
+    "squadra": "Como",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 4.5
+  },
+  {
+    "nome": "Sommariva",
+    "squadra": "Genoa",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 7.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Audero",
+    "squadra": "Como",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 3.75
+  },
+  {
+    "nome": "Terracciano",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 5.17
+  },
+  {
+    "nome": "Perin",
+    "squadra": "Juventus",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.1,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Sportiello",
+    "squadra": "Milan",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.0
+  },
+  {
+    "nome": "Joronen",
+    "squadra": "Venezia",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 3.38
+  },
+  {
+    "nome": "Perilli",
+    "squadra": "Verona",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.0
+  },
+  {
+    "nome": "Pizzignacco",
+    "squadra": "Monza",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.06,
+    "fantamedia": 3.94
+  },
+  {
+    "nome": "Siegrist",
+    "squadra": "Genoa",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Rossi F.",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Bagnolini",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Radunovic",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Scuffet",
+    "squadra": "Napoli",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.89,
+    "fantamedia": 4.18
+  },
+  {
+    "nome": "Sherri",
+    "squadra": "Cagliari",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 4.29
+  },
+  {
+    "nome": "Vigorito",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Chiorra",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Perisan",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Christensen O.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Martinelli T.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Gollini",
+    "squadra": "Roma",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 4.07
+  },
+  {
+    "nome": "Di Gennaro",
+    "squadra": "Inter",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Pinsoglio",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Furlanetto",
+    "squadra": "Lazio",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Fruchtl",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Samooja",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Nava",
+    "squadra": "Milan",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Cragno",
+    "squadra": "Monza",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sorrentino A.",
+    "squadra": "Monza",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Contini",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Chichizola",
+    "squadra": "Parma",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.0,
+    "fantamedia": 2.0
+  },
+  {
+    "nome": "Corvi",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Rinaldi",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Boer",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Ryan",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Paleari",
+    "squadra": "Torino",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 3.5
+  },
+  {
+    "nome": "Popa",
+    "squadra": "Torino",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Padelli",
+    "squadra": "Udinese",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 6.5
+  },
+  {
+    "nome": "Bertinato",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Grandi",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Berardi A.",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Brancolini",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Ciocci",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Torriani",
+    "squadra": "Milan",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Donnarumma An.",
+    "squadra": "Torino",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Silvestri",
+    "squadra": "Empoli",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.7,
+    "fantamedia": 3.5
+  },
+  {
+    "nome": "Mazza",
+    "squadra": "Monza",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Marin Re.",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Rui Patricio",
+    "squadra": "Atalanta",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 5.17
+  },
+  {
+    "nome": "Plizzari",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Seghetti",
+    "squadra": "Empoli",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 3.5
+  },
+  {
+    "nome": "Piana",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Selvik",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Marcone",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Stolz",
+    "squadra": "Genoa",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Calligaris",
+    "squadra": "Inter",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "De Marzi",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Dimarco",
+    "squadra": "Inter",
+    "partite_a_voto": 32,
+    "gol": 4,
+    "assist": 7,
+    "media": 6.31,
+    "fantamedia": 6.86
+  },
+  {
+    "nome": "Dumfries",
+    "squadra": "Inter",
+    "partite_a_voto": 29,
+    "gol": 7,
+    "assist": 2,
+    "media": 6.19,
+    "fantamedia": 6.91
+  },
+  {
+    "nome": "Zortea",
+    "squadra": "Cagliari",
+    "partite_a_voto": 35,
+    "gol": 6,
+    "assist": 2,
+    "media": 6.07,
+    "fantamedia": 6.6
+  },
+  {
+    "nome": "Carlos Augusto",
+    "squadra": "Inter",
+    "partite_a_voto": 28,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.2,
+    "fantamedia": 6.61
+  },
+  {
+    "nome": "Bastoni",
+    "squadra": "Inter",
+    "partite_a_voto": 32,
+    "gol": 1,
+    "assist": 4,
+    "media": 6.42,
+    "fantamedia": 6.55
+  },
+  {
+    "nome": "Gosens",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 32,
+    "gol": 5,
+    "assist": 3,
+    "media": 6.12,
+    "fantamedia": 6.59
+  },
+  {
+    "nome": "Di Lorenzo",
+    "squadra": "Napoli",
+    "partite_a_voto": 37,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.15,
+    "fantamedia": 6.36
+  },
+  {
+    "nome": "Zappacosta",
+    "squadra": "Atalanta",
+    "partite_a_voto": 30,
+    "gol": 4,
+    "assist": 2,
+    "media": 5.98,
+    "fantamedia": 6.4
+  },
+  {
+    "nome": "Martin",
+    "squadra": "Genoa",
+    "partite_a_voto": 36,
+    "gol": 0,
+    "assist": 8,
+    "media": 6.17,
+    "fantamedia": 6.32
+  },
+  {
+    "nome": "Cambiaso",
+    "squadra": "Juventus",
+    "partite_a_voto": 32,
+    "gol": 2,
+    "assist": 3,
+    "media": 6.09,
+    "fantamedia": 6.31
+  },
+  {
+    "nome": "Mancini",
+    "squadra": "Roma",
+    "partite_a_voto": 37,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.18,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Angelino",
+    "squadra": "Roma",
+    "partite_a_voto": 38,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.14,
+    "fantamedia": 6.32
+  },
+  {
+    "nome": "Dodo'",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 35,
+    "gol": 0,
+    "assist": 5,
+    "media": 6.19,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Hernandez T.",
+    "squadra": "Milan",
+    "partite_a_voto": 33,
+    "gol": 4,
+    "assist": 3,
+    "media": 6.02,
+    "fantamedia": 6.29
+  },
+  {
+    "nome": "Valeri",
+    "squadra": "Parma",
+    "partite_a_voto": 34,
+    "gol": 2,
+    "assist": 5,
+    "media": 5.94,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Bisseck",
+    "squadra": "Inter",
+    "partite_a_voto": 27,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.0,
+    "fantamedia": 6.33
+  },
+  {
+    "nome": "Darmian",
+    "squadra": "Inter",
+    "partite_a_voto": 26,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.08,
+    "fantamedia": 6.37
+  },
+  {
+    "nome": "Tavares N.",
+    "squadra": "Lazio",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 7,
+    "media": 6.28,
+    "fantamedia": 6.5
+  },
+  {
+    "nome": "Birindelli",
+    "squadra": "Monza",
+    "partite_a_voto": 20,
+    "gol": 3,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 6.35
+  },
+  {
+    "nome": "Rrahmani",
+    "squadra": "Napoli",
+    "partite_a_voto": 38,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.14,
+    "fantamedia": 6.17
+  },
+  {
+    "nome": "Delprato",
+    "squadra": "Parma",
+    "partite_a_voto": 34,
+    "gol": 4,
+    "assist": 0,
+    "media": 6.03,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Bellanova",
+    "squadra": "Atalanta",
+    "partite_a_voto": 35,
+    "gol": 0,
+    "assist": 9,
+    "media": 6.04,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Luperto",
+    "squadra": "Cagliari",
+    "partite_a_voto": 36,
+    "gol": 1,
+    "assist": 2,
+    "media": 6.0,
+    "fantamedia": 6.08
+  },
+  {
+    "nome": "Vasquez",
+    "squadra": "Genoa",
+    "partite_a_voto": 36,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.06,
+    "fantamedia": 6.18
+  },
+  {
+    "nome": "De Vrij",
+    "squadra": "Inter",
+    "partite_a_voto": 22,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.18,
+    "fantamedia": 6.55
+  },
+  {
+    "nome": "Marusic",
+    "squadra": "Lazio",
+    "partite_a_voto": 31,
+    "gol": 4,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 6.16
+  },
+  {
+    "nome": "Dorgu",
+    "squadra": "Lecce",
+    "partite_a_voto": 21,
+    "gol": 3,
+    "assist": 1,
+    "media": 5.83,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Kyriakopoulos",
+    "squadra": "Monza",
+    "partite_a_voto": 34,
+    "gol": 2,
+    "assist": 4,
+    "media": 5.9,
+    "fantamedia": 6.06
+  },
+  {
+    "nome": "Buongiorno",
+    "squadra": "Napoli",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.36,
+    "fantamedia": 6.45
+  },
+  {
+    "nome": "Spinazzola",
+    "squadra": "Napoli",
+    "partite_a_voto": 23,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.07,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Gigot",
+    "squadra": "Lazio",
+    "partite_a_voto": 10,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.2,
+    "fantamedia": 6.7
+  },
+  {
+    "nome": "Miranda J.",
+    "squadra": "Bologna",
+    "partite_a_voto": 29,
+    "gol": 0,
+    "assist": 6,
+    "media": 6.05,
+    "fantamedia": 6.16
+  },
+  {
+    "nome": "Augello",
+    "squadra": "Cagliari",
+    "partite_a_voto": 37,
+    "gol": 0,
+    "assist": 7,
+    "media": 5.95,
+    "fantamedia": 6.09
+  },
+  {
+    "nome": "Ismajli",
+    "squadra": "Empoli",
+    "partite_a_voto": 29,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Cacace",
+    "squadra": "Empoli",
+    "partite_a_voto": 29,
+    "gol": 2,
+    "assist": 3,
+    "media": 5.79,
+    "fantamedia": 6.02
+  },
+  {
+    "nome": "Pezzella Giu.",
+    "squadra": "Empoli",
+    "partite_a_voto": 35,
+    "gol": 0,
+    "assist": 4,
+    "media": 6.03,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Parisi",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 20,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Gatti",
+    "squadra": "Juventus",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.14,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Baschirotto",
+    "squadra": "Lecce",
+    "partite_a_voto": 38,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.97
+  },
+  {
+    "nome": "Gabbia",
+    "squadra": "Milan",
+    "partite_a_voto": 25,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.04,
+    "fantamedia": 6.2
+  },
+  {
+    "nome": "N'Dicka",
+    "squadra": "Roma",
+    "partite_a_voto": 38,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.05,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Mina",
+    "squadra": "Cagliari",
+    "partite_a_voto": 31,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.06,
+    "fantamedia": 6.06
+  },
+  {
+    "nome": "Ranieri L.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 36,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.92,
+    "fantamedia": 5.96
+  },
+  {
+    "nome": "De Winter",
+    "squadra": "Genoa",
+    "partite_a_voto": 24,
+    "gol": 3,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 6.1
+  },
+  {
+    "nome": "Gila",
+    "squadra": "Lazio",
+    "partite_a_voto": 32,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.05,
+    "fantamedia": 5.95
+  },
+  {
+    "nome": "Gaspar K.",
+    "squadra": "Lecce",
+    "partite_a_voto": 24,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.17,
+    "fantamedia": 6.15
+  },
+  {
+    "nome": "Kalulu",
+    "squadra": "Juventus",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.02,
+    "fantamedia": 6.05
+  },
+  {
+    "nome": "Olivera",
+    "squadra": "Napoli",
+    "partite_a_voto": 30,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.08,
+    "fantamedia": 6.05
+  },
+  {
+    "nome": "Lazaro",
+    "squadra": "Torino",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 6,
+    "media": 5.98,
+    "fantamedia": 6.08
+  },
+  {
+    "nome": "Kamara H.",
+    "squadra": "Udinese",
+    "partite_a_voto": 30,
+    "gol": 1,
+    "assist": 4,
+    "media": 5.93,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Idzes",
+    "squadra": "Venezia",
+    "partite_a_voto": 35,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 5.97
+  },
+  {
+    "nome": "Pavlovic",
+    "squadra": "Milan",
+    "partite_a_voto": 22,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.91,
+    "fantamedia": 6.11
+  },
+  {
+    "nome": "Solet",
+    "squadra": "Udinese",
+    "partite_a_voto": 19,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.16,
+    "fantamedia": 6.29
+  },
+  {
+    "nome": "Djimsiti",
+    "squadra": "Atalanta",
+    "partite_a_voto": 33,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.88,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Ruggeri",
+    "squadra": "Atalanta",
+    "partite_a_voto": 26,
+    "gol": 0,
+    "assist": 3,
+    "media": 6.0,
+    "fantamedia": 6.08
+  },
+  {
+    "nome": "Beukema",
+    "squadra": "Bologna",
+    "partite_a_voto": 34,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.93,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Zappa",
+    "squadra": "Cagliari",
+    "partite_a_voto": 36,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Viti",
+    "squadra": "Empoli",
+    "partite_a_voto": 30,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.02,
+    "fantamedia": 6.07
+  },
+  {
+    "nome": "Acerbi",
+    "squadra": "Inter",
+    "partite_a_voto": 21,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.07,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Bremer",
+    "squadra": "Juventus",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Romagnoli",
+    "squadra": "Lazio",
+    "partite_a_voto": 32,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.84,
+    "fantamedia": 5.91
+  },
+  {
+    "nome": "Pellegrini Lu.",
+    "squadra": "Lazio",
+    "partite_a_voto": 19,
+    "gol": 0,
+    "assist": 3,
+    "media": 6.08,
+    "fantamedia": 6.11
+  },
+  {
+    "nome": "Valenti",
+    "squadra": "Parma",
+    "partite_a_voto": 20,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Vojvoda",
+    "squadra": "Como",
+    "partite_a_voto": 27,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.96,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Masina",
+    "squadra": "Torino",
+    "partite_a_voto": 24,
+    "gol": 1,
+    "assist": 3,
+    "media": 5.96,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Bijol",
+    "squadra": "Udinese",
+    "partite_a_voto": 34,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.99,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Perez N.",
+    "squadra": "Udinese",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.25,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Tchatchoua",
+    "squadra": "Verona",
+    "partite_a_voto": 36,
+    "gol": 2,
+    "assist": 3,
+    "media": 5.76,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Savona",
+    "squadra": "Juventus",
+    "partite_a_voto": 27,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.89,
+    "fantamedia": 6.02
+  },
+  {
+    "nome": "Cuadrado",
+    "squadra": "Atalanta",
+    "partite_a_voto": 20,
+    "gol": 0,
+    "assist": 2,
+    "media": 6.08,
+    "fantamedia": 6.1
+  },
+  {
+    "nome": "Maripan",
+    "squadra": "Torino",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.93,
+    "fantamedia": 5.93
+  },
+  {
+    "nome": "Walker",
+    "squadra": "Milan",
+    "partite_a_voto": 10,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Holm",
+    "squadra": "Bologna",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.94,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Lykogiannis",
+    "squadra": "Bologna",
+    "partite_a_voto": 16,
+    "gol": 0,
+    "assist": 4,
+    "media": 6.0,
+    "fantamedia": 6.16
+  },
+  {
+    "nome": "Varane",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Comuzzo",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.93
+  },
+  {
+    "nome": "Martinez Quarta",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 7,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Biraghi",
+    "squadra": "Torino",
+    "partite_a_voto": 21,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Sabelli",
+    "squadra": "Genoa",
+    "partite_a_voto": 30,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.87,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Pavard",
+    "squadra": "Inter",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.05,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Danilo",
+    "squadra": "Juventus",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.44,
+    "fantamedia": 5.44
+  },
+  {
+    "nome": "Tomori",
+    "squadra": "Milan",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.86,
+    "fantamedia": 5.81
+  },
+  {
+    "nome": "Smalling",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Coppola D.",
+    "squadra": "Verona",
+    "partite_a_voto": 33,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.8,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Haps",
+    "squadra": "Venezia",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.86,
+    "fantamedia": 5.98
+  },
+  {
+    "nome": "Jimenez A.",
+    "squadra": "Milan",
+    "partite_a_voto": 21,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Kolasinac",
+    "squadra": "Atalanta",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 2,
+    "media": 6.13,
+    "fantamedia": 5.98
+  },
+  {
+    "nome": "Hateboer",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Obert",
+    "squadra": "Cagliari",
+    "partite_a_voto": 19,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.95,
+    "fantamedia": 6.05
+  },
+  {
+    "nome": "Goldaniga",
+    "squadra": "Como",
+    "partite_a_voto": 30,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.73
+  },
+  {
+    "nome": "Zanoli",
+    "squadra": "Genoa",
+    "partite_a_voto": 27,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.96
+  },
+  {
+    "nome": "Gendrey",
+    "squadra": "Lecce",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.25,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Mari'",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 32,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.84,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Coco",
+    "squadra": "Torino",
+    "partite_a_voto": 32,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Kabasele",
+    "squadra": "Udinese",
+    "partite_a_voto": 16,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.84,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Ehizibue",
+    "squadra": "Udinese",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.85,
+    "fantamedia": 5.81
+  },
+  {
+    "nome": "Emerson Royal",
+    "squadra": "Milan",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.62,
+    "fantamedia": 5.47
+  },
+  {
+    "nome": "Leoni",
+    "squadra": "Parma",
+    "partite_a_voto": 17,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Kempf",
+    "squadra": "Como",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 5.76
+  },
+  {
+    "nome": "Bradaric",
+    "squadra": "Verona",
+    "partite_a_voto": 27,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.72,
+    "fantamedia": 5.72
+  },
+  {
+    "nome": "Candè",
+    "squadra": "Venezia",
+    "partite_a_voto": 17,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.76,
+    "fantamedia": 5.82
+  },
+  {
+    "nome": "Kelly L.",
+    "squadra": "Juventus",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.62
+  },
+  {
+    "nome": "Hien",
+    "squadra": "Atalanta",
+    "partite_a_voto": 29,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 5.78
+  },
+  {
+    "nome": "Lucumi'",
+    "squadra": "Bologna",
+    "partite_a_voto": 32,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.83,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "De Silvestri",
+    "squadra": "Bologna",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 6.06
+  },
+  {
+    "nome": "Moreno Alb.",
+    "squadra": "Como",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 5.87
+  },
+  {
+    "nome": "Goglichidze",
+    "squadra": "Empoli",
+    "partite_a_voto": 33,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.76,
+    "fantamedia": 5.71
+  },
+  {
+    "nome": "Pongracic",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 5.65
+  },
+  {
+    "nome": "Bani",
+    "squadra": "Genoa",
+    "partite_a_voto": 20,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.92,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Rugani",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Lazzari",
+    "squadra": "Lazio",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.89,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Hysaj",
+    "squadra": "Lazio",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 3,
+    "media": 5.88,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Gallo",
+    "squadra": "Lecce",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.79,
+    "fantamedia": 5.65
+  },
+  {
+    "nome": "Celik",
+    "squadra": "Roma",
+    "partite_a_voto": 30,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.78,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Zemura",
+    "squadra": "Udinese",
+    "partite_a_voto": 21,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.81,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Palomino",
+    "squadra": "Cagliari",
+    "partite_a_voto": 17,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.76,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Guilbert",
+    "squadra": "Lecce",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.79,
+    "fantamedia": 5.71
+  },
+  {
+    "nome": "Schingtienne",
+    "squadra": "Venezia",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.7,
+    "fantamedia": 5.63
+  },
+  {
+    "nome": "Kossounou",
+    "squadra": "Atalanta",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.94,
+    "fantamedia": 5.91
+  },
+  {
+    "nome": "Van Der Brempt",
+    "squadra": "Como",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.94,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Alberto Costa",
+    "squadra": "Juventus",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.81
+  },
+  {
+    "nome": "Rensch",
+    "squadra": "Roma",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.06,
+    "fantamedia": 6.19
+  },
+  {
+    "nome": "Veiga D.",
+    "squadra": "Lecce",
+    "partite_a_voto": 11,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.73,
+    "fantamedia": 5.73
+  },
+  {
+    "nome": "Valle",
+    "squadra": "Como",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.81,
+    "fantamedia": 5.73
+  },
+  {
+    "nome": "Bakker",
+    "squadra": "Atalanta",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Di Pardo",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Dossena",
+    "squadra": "Como",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.8,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Walukiewicz",
+    "squadra": "Torino",
+    "partite_a_voto": 28,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.73,
+    "fantamedia": 5.64
+  },
+  {
+    "nome": "Ebuehi",
+    "squadra": "Empoli",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 6.17
+  },
+  {
+    "nome": "Stojanovic",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Vogliacco",
+    "squadra": "Parma",
+    "partite_a_voto": 20,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.7,
+    "fantamedia": 5.78
+  },
+  {
+    "nome": "De Sciglio",
+    "squadra": "Empoli",
+    "partite_a_voto": 12,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.79,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Calabria",
+    "squadra": "Bologna",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.88,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Izzo",
+    "squadra": "Monza",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.75,
+    "fantamedia": 5.68
+  },
+  {
+    "nome": "Carboni A.",
+    "squadra": "Monza",
+    "partite_a_voto": 26,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.63,
+    "fantamedia": 5.62
+  },
+  {
+    "nome": "Pereira P.",
+    "squadra": "Monza",
+    "partite_a_voto": 33,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.64,
+    "fantamedia": 5.65
+  },
+  {
+    "nome": "Natan",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Balogh",
+    "squadra": "Parma",
+    "partite_a_voto": 27,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.78,
+    "fantamedia": 5.72
+  },
+  {
+    "nome": "Kristensen T.",
+    "squadra": "Udinese",
+    "partite_a_voto": 21,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.57,
+    "fantamedia": 5.6
+  },
+  {
+    "nome": "Ferreira J.",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Altare",
+    "squadra": "Venezia",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Zampano",
+    "squadra": "Venezia",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.77,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Dawidowicz",
+    "squadra": "Verona",
+    "partite_a_voto": 25,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.56,
+    "fantamedia": 5.38
+  },
+  {
+    "nome": "Ghilardi",
+    "squadra": "Verona",
+    "partite_a_voto": 24,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.73,
+    "fantamedia": 5.54
+  },
+  {
+    "nome": "Erlic",
+    "squadra": "Bologna",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.07,
+    "fantamedia": 6.07
+  },
+  {
+    "nome": "Marianucci",
+    "squadra": "Empoli",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.81,
+    "fantamedia": 5.73
+  },
+  {
+    "nome": "Norton-Cuffy",
+    "squadra": "Genoa",
+    "partite_a_voto": 10,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.7,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "Dembele' A.",
+    "squadra": "Torino",
+    "partite_a_voto": 9,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Jean",
+    "squadra": "Lecce",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Valentini N.",
+    "squadra": "Verona",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.61,
+    "fantamedia": 5.43
+  },
+  {
+    "nome": "Nelsson",
+    "squadra": "Roma",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Toloi",
+    "squadra": "Atalanta",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.94,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Marcandalli",
+    "squadra": "Venezia",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Casale",
+    "squadra": "Bologna",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.63,
+    "fantamedia": 5.53
+  },
+  {
+    "nome": "Thiaw",
+    "squadra": "Milan",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.43
+  },
+  {
+    "nome": "Juan Jesus",
+    "squadra": "Napoli",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.81,
+    "fantamedia": 5.81
+  },
+  {
+    "nome": "Coulibaly W.",
+    "squadra": "Parma",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.54,
+    "fantamedia": 5.36
+  },
+  {
+    "nome": "Ebosele",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Magnani",
+    "squadra": "Verona",
+    "partite_a_voto": 14,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.29,
+    "fantamedia": 5.43
+  },
+  {
+    "nome": "Ceccherini",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Palestra",
+    "squadra": "Atalanta",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Abankwah",
+    "squadra": "Udinese",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.25,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Pedersen",
+    "squadra": "Torino",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.61,
+    "fantamedia": 5.54
+  },
+  {
+    "nome": "Hummels",
+    "squadra": "Roma",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.12,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Ahanor",
+    "squadra": "Genoa",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Smolcic I.",
+    "squadra": "Como",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.81,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Godfrey",
+    "squadra": "Atalanta",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Posch",
+    "squadra": "Atalanta",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.81,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Wieteska",
+    "squadra": "Cagliari",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.6,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Hatzidiakos",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Azzi",
+    "squadra": "Cagliari",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Barba",
+    "squadra": "Como",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.42,
+    "fantamedia": 5.42
+  },
+  {
+    "nome": "Matturro",
+    "squadra": "Genoa",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.62,
+    "fantamedia": 5.54
+  },
+  {
+    "nome": "Cabal",
+    "squadra": "Juventus",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.33,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Bettella",
+    "squadra": "Monza",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Caldirola",
+    "squadra": "Monza",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.61
+  },
+  {
+    "nome": "Marin R.",
+    "squadra": "Napoli",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Circati",
+    "squadra": "Parma",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Kumbulla",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Dahl",
+    "squadra": "Roma",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Giannetti L.",
+    "squadra": "Udinese",
+    "partite_a_voto": 13,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.69,
+    "fantamedia": 5.46
+  },
+  {
+    "nome": "Svoboda",
+    "squadra": "Venezia",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.69,
+    "fantamedia": 5.84
+  },
+  {
+    "nome": "Sverko",
+    "squadra": "Venezia",
+    "partite_a_voto": 14,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Candela",
+    "squadra": "Venezia",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.46,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Frese",
+    "squadra": "Verona",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.79,
+    "fantamedia": 5.79
+  },
+  {
+    "nome": "Esteves G.",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sosa B.",
+    "squadra": "Torino",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.72,
+    "fantamedia": 5.72
+  },
+  {
+    "nome": "Sergi Roberto",
+    "squadra": "Como",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Palacios T.",
+    "squadra": "Monza",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.25,
+    "fantamedia": 5.08
+  },
+  {
+    "nome": "Sambia",
+    "squadra": "Empoli",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Bartesaghi",
+    "squadra": "Milan",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.33,
+    "fantamedia": 5.0
+  },
+  {
+    "nome": "Hermoso",
+    "squadra": "Roma",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.12,
+    "fantamedia": 4.88
+  },
+  {
+    "nome": "Lovik",
+    "squadra": "Parma",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Otoa",
+    "squadra": "Genoa",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.17,
+    "fantamedia": 4.67
+  },
+  {
+    "nome": "Lekovic",
+    "squadra": "Monza",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 4.75,
+    "fantamedia": 4.42
+  },
+  {
+    "nome": "Tiago Gabriel",
+    "squadra": "Lecce",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.25,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Brorsson",
+    "squadra": "Monza",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.38,
+    "fantamedia": 5.38
+  },
+  {
+    "nome": "Scalvini",
+    "squadra": "Atalanta",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Ilic M.",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Corazza",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Veroli",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Iovine",
+    "squadra": "Como",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.64,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Kovacik",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sala M.",
+    "squadra": "Lecce",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Cassandro",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Lucchesi",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Kayode",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Djalo'",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Patric",
+    "squadra": "Lazio",
+    "partite_a_voto": 8,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.62,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Terracciano F.",
+    "squadra": "Milan",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.71,
+    "fantamedia": 5.57
+  },
+  {
+    "nome": "D'Ambrosio",
+    "squadra": "Monza",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.59,
+    "fantamedia": 5.47
+  },
+  {
+    "nome": "Mario Rui",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Mazzocchi",
+    "squadra": "Napoli",
+    "partite_a_voto": 10,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.7,
+    "fantamedia": 5.65
+  },
+  {
+    "nome": "Osorio",
+    "squadra": "Parma",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.17,
+    "fantamedia": 5.17
+  },
+  {
+    "nome": "Di Chiara",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sangare' B.",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sazonov",
+    "squadra": "Empoli",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.0,
+    "fantamedia": 5.0
+  },
+  {
+    "nome": "Schuurs",
+    "squadra": "Torino",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Ebosse",
+    "squadra": "Udinese",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Okou",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Faraoni",
+    "squadra": "Verona",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Sagrado",
+    "squadra": "Venezia",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.33
+  },
+  {
+    "nome": "Rouhi",
+    "squadra": "Juventus",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.62,
+    "fantamedia": 5.62
+  },
+  {
+    "nome": "Pelmard",
+    "squadra": "Lecce",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Dellavalle",
+    "squadra": "Torino",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Abdulhamid",
+    "squadra": "Roma",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.75,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Carboni F.",
+    "squadra": "Venezia",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "Moreno M.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Bonifazi",
+    "squadra": "Lecce",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.25,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Daniliuc",
+    "squadra": "Verona",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.39,
+    "fantamedia": 5.39
+  },
+  {
+    "nome": "Toure' I.s.",
+    "squadra": "Udinese",
+    "partite_a_voto": 11,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.59,
+    "fantamedia": 5.41
+  },
+  {
+    "nome": "Florenzi",
+    "squadra": "Milan",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Jack",
+    "squadra": "Como",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.0,
+    "fantamedia": 4.5
+  },
+  {
+    "nome": "Oyegoke",
+    "squadra": "Verona",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Provstgaard",
+    "squadra": "Lazio",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 6.5
+  },
+  {
+    "nome": "Slotsager",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Salah-Eddine",
+    "squadra": "Roma",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.5,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Scott",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Luan Patrick",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Orsolini",
+    "squadra": "Bologna",
+    "partite_a_voto": 29,
+    "gol": 15,
+    "assist": 4,
+    "media": 6.53,
+    "fantamedia": 8.19
+  },
+  {
+    "nome": "McTominay",
+    "squadra": "Napoli",
+    "partite_a_voto": 34,
+    "gol": 12,
+    "assist": 3,
+    "media": 6.56,
+    "fantamedia": 7.66
+  },
+  {
+    "nome": "Pulisic",
+    "squadra": "Milan",
+    "partite_a_voto": 34,
+    "gol": 11,
+    "assist": 8,
+    "media": 6.38,
+    "fantamedia": 7.49
+  },
+  {
+    "nome": "Ndoye",
+    "squadra": "Bologna",
+    "partite_a_voto": 29,
+    "gol": 8,
+    "assist": 4,
+    "media": 6.47,
+    "fantamedia": 7.36
+  },
+  {
+    "nome": "Reijnders",
+    "squadra": "Milan",
+    "partite_a_voto": 37,
+    "gol": 10,
+    "assist": 4,
+    "media": 6.31,
+    "fantamedia": 7.18
+  },
+  {
+    "nome": "Zaccagni",
+    "squadra": "Lazio",
+    "partite_a_voto": 34,
+    "gol": 8,
+    "assist": 6,
+    "media": 6.28,
+    "fantamedia": 7.01
+  },
+  {
+    "nome": "Saelemaekers",
+    "squadra": "Roma",
+    "partite_a_voto": 22,
+    "gol": 7,
+    "assist": 3,
+    "media": 6.39,
+    "fantamedia": 7.36
+  },
+  {
+    "nome": "Zambo Anguissa",
+    "squadra": "Napoli",
+    "partite_a_voto": 35,
+    "gol": 6,
+    "assist": 4,
+    "media": 6.41,
+    "fantamedia": 6.97
+  },
+  {
+    "nome": "Paz N.",
+    "squadra": "Como",
+    "partite_a_voto": 33,
+    "gol": 6,
+    "assist": 7,
+    "media": 6.38,
+    "fantamedia": 6.95
+  },
+  {
+    "nome": "Strefezza",
+    "squadra": "Como",
+    "partite_a_voto": 37,
+    "gol": 6,
+    "assist": 4,
+    "media": 6.27,
+    "fantamedia": 6.8
+  },
+  {
+    "nome": "Calhanoglu",
+    "squadra": "Inter",
+    "partite_a_voto": 28,
+    "gol": 5,
+    "assist": 6,
+    "media": 6.34,
+    "fantamedia": 6.89
+  },
+  {
+    "nome": "Barella",
+    "squadra": "Inter",
+    "partite_a_voto": 33,
+    "gol": 3,
+    "assist": 6,
+    "media": 6.26,
+    "fantamedia": 6.65
+  },
+  {
+    "nome": "Thuram K.",
+    "squadra": "Juventus",
+    "partite_a_voto": 33,
+    "gol": 4,
+    "assist": 5,
+    "media": 6.3,
+    "fantamedia": 6.74
+  },
+  {
+    "nome": "Weah",
+    "squadra": "Juventus",
+    "partite_a_voto": 26,
+    "gol": 5,
+    "assist": 1,
+    "media": 6.13,
+    "fantamedia": 6.69
+  },
+  {
+    "nome": "Mandragora",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 27,
+    "gol": 4,
+    "assist": 4,
+    "media": 6.19,
+    "fantamedia": 6.67
+  },
+  {
+    "nome": "Nicolussi Caviglia",
+    "squadra": "Venezia",
+    "partite_a_voto": 35,
+    "gol": 4,
+    "assist": 3,
+    "media": 6.2,
+    "fantamedia": 6.53
+  },
+  {
+    "nome": "Vlasic",
+    "squadra": "Torino",
+    "partite_a_voto": 30,
+    "gol": 5,
+    "assist": 3,
+    "media": 6.07,
+    "fantamedia": 6.67
+  },
+  {
+    "nome": "Neres",
+    "squadra": "Napoli",
+    "partite_a_voto": 25,
+    "gol": 2,
+    "assist": 5,
+    "media": 6.32,
+    "fantamedia": 6.72
+  },
+  {
+    "nome": "De Roon",
+    "squadra": "Atalanta",
+    "partite_a_voto": 36,
+    "gol": 4,
+    "assist": 4,
+    "media": 6.15,
+    "fantamedia": 6.53
+  },
+  {
+    "nome": "Ederson D.s.",
+    "squadra": "Atalanta",
+    "partite_a_voto": 36,
+    "gol": 4,
+    "assist": 2,
+    "media": 6.17,
+    "fantamedia": 6.49
+  },
+  {
+    "nome": "Fazzini",
+    "squadra": "Empoli",
+    "partite_a_voto": 20,
+    "gol": 4,
+    "assist": 1,
+    "media": 6.42,
+    "fantamedia": 6.98
+  },
+  {
+    "nome": "Adli",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 22,
+    "gol": 4,
+    "assist": 6,
+    "media": 6.2,
+    "fantamedia": 6.95
+  },
+  {
+    "nome": "Frattesi",
+    "squadra": "Inter",
+    "partite_a_voto": 23,
+    "gol": 5,
+    "assist": 1,
+    "media": 6.02,
+    "fantamedia": 6.72
+  },
+  {
+    "nome": "Politano",
+    "squadra": "Napoli",
+    "partite_a_voto": 37,
+    "gol": 3,
+    "assist": 4,
+    "media": 6.11,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Man",
+    "squadra": "Parma",
+    "partite_a_voto": 32,
+    "gol": 4,
+    "assist": 4,
+    "media": 5.95,
+    "fantamedia": 6.45
+  },
+  {
+    "nome": "Cristante",
+    "squadra": "Roma",
+    "partite_a_voto": 28,
+    "gol": 4,
+    "assist": 3,
+    "media": 6.2,
+    "fantamedia": 6.59
+  },
+  {
+    "nome": "El Shaarawy",
+    "squadra": "Roma",
+    "partite_a_voto": 21,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.19,
+    "fantamedia": 6.71
+  },
+  {
+    "nome": "Oristanio",
+    "squadra": "Venezia",
+    "partite_a_voto": 37,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.05,
+    "fantamedia": 6.34
+  },
+  {
+    "nome": "Brescianini",
+    "squadra": "Atalanta",
+    "partite_a_voto": 23,
+    "gol": 4,
+    "assist": 2,
+    "media": 6.13,
+    "fantamedia": 6.72
+  },
+  {
+    "nome": "Kone' M.",
+    "squadra": "Roma",
+    "partite_a_voto": 33,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.26,
+    "fantamedia": 6.38
+  },
+  {
+    "nome": "Diao",
+    "squadra": "Como",
+    "partite_a_voto": 14,
+    "gol": 7,
+    "assist": 0,
+    "media": 6.5,
+    "fantamedia": 7.93
+  },
+  {
+    "nome": "Koopmeiners",
+    "squadra": "Juventus",
+    "partite_a_voto": 28,
+    "gol": 3,
+    "assist": 4,
+    "media": 5.98,
+    "fantamedia": 6.39
+  },
+  {
+    "nome": "Da Cunha",
+    "squadra": "Como",
+    "partite_a_voto": 35,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.1,
+    "fantamedia": 6.36
+  },
+  {
+    "nome": "Conceicao",
+    "squadra": "Juventus",
+    "partite_a_voto": 25,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.12,
+    "fantamedia": 6.5
+  },
+  {
+    "nome": "Freuler",
+    "squadra": "Bologna",
+    "partite_a_voto": 37,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.19,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Marin",
+    "squadra": "Cagliari",
+    "partite_a_voto": 27,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.07,
+    "fantamedia": 6.41
+  },
+  {
+    "nome": "Locatelli",
+    "squadra": "Juventus",
+    "partite_a_voto": 35,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.19,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Maldini",
+    "squadra": "Atalanta",
+    "partite_a_voto": 27,
+    "gol": 6,
+    "assist": 0,
+    "media": 6.02,
+    "fantamedia": 6.59
+  },
+  {
+    "nome": "Hernani",
+    "squadra": "Parma",
+    "partite_a_voto": 25,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.08,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Sohm",
+    "squadra": "Parma",
+    "partite_a_voto": 37,
+    "gol": 4,
+    "assist": 0,
+    "media": 6.03,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Ellertsson",
+    "squadra": "Venezia",
+    "partite_a_voto": 35,
+    "gol": 2,
+    "assist": 2,
+    "media": 6.01,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Anjorin",
+    "squadra": "Empoli",
+    "partite_a_voto": 22,
+    "gol": 2,
+    "assist": 3,
+    "media": 6.3,
+    "fantamedia": 6.64
+  },
+  {
+    "nome": "Caqueret",
+    "squadra": "Como",
+    "partite_a_voto": 16,
+    "gol": 2,
+    "assist": 3,
+    "media": 6.34,
+    "fantamedia": 6.78
+  },
+  {
+    "nome": "Elmas",
+    "squadra": "Torino",
+    "partite_a_voto": 13,
+    "gol": 4,
+    "assist": 0,
+    "media": 6.12,
+    "fantamedia": 7.04
+  },
+  {
+    "nome": "Fabbian",
+    "squadra": "Bologna",
+    "partite_a_voto": 22,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.09,
+    "fantamedia": 6.48
+  },
+  {
+    "nome": "Ferguson",
+    "squadra": "Bologna",
+    "partite_a_voto": 14,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.11,
+    "fantamedia": 6.39
+  },
+  {
+    "nome": "Mkhitaryan",
+    "squadra": "Inter",
+    "partite_a_voto": 32,
+    "gol": 1,
+    "assist": 5,
+    "media": 6.06,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "McKennie",
+    "squadra": "Juventus",
+    "partite_a_voto": 31,
+    "gol": 2,
+    "assist": 3,
+    "media": 5.94,
+    "fantamedia": 6.18
+  },
+  {
+    "nome": "Cataldi",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 24,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.04,
+    "fantamedia": 6.4
+  },
+  {
+    "nome": "Dele-Bashiru",
+    "squadra": "Lazio",
+    "partite_a_voto": 17,
+    "gol": 3,
+    "assist": 1,
+    "media": 6.06,
+    "fantamedia": 6.65
+  },
+  {
+    "nome": "Chukwueze",
+    "squadra": "Milan",
+    "partite_a_voto": 16,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.09,
+    "fantamedia": 6.78
+  },
+  {
+    "nome": "Gaetano",
+    "squadra": "Cagliari",
+    "partite_a_voto": 27,
+    "gol": 2,
+    "assist": 4,
+    "media": 6.04,
+    "fantamedia": 6.41
+  },
+  {
+    "nome": "Paredes",
+    "squadra": "Roma",
+    "partite_a_voto": 20,
+    "gol": 3,
+    "assist": 1,
+    "media": 6.28,
+    "fantamedia": 6.68
+  },
+  {
+    "nome": "Ekkelenkamp",
+    "squadra": "Udinese",
+    "partite_a_voto": 33,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.97,
+    "fantamedia": 6.27
+  },
+  {
+    "nome": "Fofana Y.",
+    "squadra": "Milan",
+    "partite_a_voto": 34,
+    "gol": 1,
+    "assist": 6,
+    "media": 6.03,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Ondrejka",
+    "squadra": "Parma",
+    "partite_a_voto": 10,
+    "gol": 5,
+    "assist": 0,
+    "media": 6.35,
+    "fantamedia": 7.85
+  },
+  {
+    "nome": "Pasalic",
+    "squadra": "Atalanta",
+    "partite_a_voto": 33,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.91,
+    "fantamedia": 6.14
+  },
+  {
+    "nome": "Colpani",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 24,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.81,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Miretti",
+    "squadra": "Genoa",
+    "partite_a_voto": 25,
+    "gol": 3,
+    "assist": 3,
+    "media": 5.98,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Vecino",
+    "squadra": "Lazio",
+    "partite_a_voto": 18,
+    "gol": 2,
+    "assist": 3,
+    "media": 6.14,
+    "fantamedia": 6.44
+  },
+  {
+    "nome": "Guendouzi",
+    "squadra": "Lazio",
+    "partite_a_voto": 37,
+    "gol": 1,
+    "assist": 2,
+    "media": 6.04,
+    "fantamedia": 6.07
+  },
+  {
+    "nome": "Pellegrini Lo.",
+    "squadra": "Roma",
+    "partite_a_voto": 25,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.68,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Gineitis",
+    "squadra": "Torino",
+    "partite_a_voto": 28,
+    "gol": 3,
+    "assist": 1,
+    "media": 5.95,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Samardzic",
+    "squadra": "Atalanta",
+    "partite_a_voto": 28,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.09,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Andersen M.K.",
+    "squadra": "Venezia",
+    "partite_a_voto": 13,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.96,
+    "fantamedia": 6.23
+  },
+  {
+    "nome": "Zerbin",
+    "squadra": "Venezia",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.11
+  },
+  {
+    "nome": "Casadei",
+    "squadra": "Torino",
+    "partite_a_voto": 15,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.03,
+    "fantamedia": 6.27
+  },
+  {
+    "nome": "Ikone'",
+    "squadra": "Como",
+    "partite_a_voto": 23,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 6.2
+  },
+  {
+    "nome": "Frendrup",
+    "squadra": "Genoa",
+    "partite_a_voto": 35,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Asllani",
+    "squadra": "Inter",
+    "partite_a_voto": 16,
+    "gol": 2,
+    "assist": 2,
+    "media": 6.16,
+    "fantamedia": 6.56
+  },
+  {
+    "nome": "Douglas Luiz",
+    "squadra": "Juventus",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.87,
+    "fantamedia": 5.8
+  },
+  {
+    "nome": "Tete Morente",
+    "squadra": "Lecce",
+    "partite_a_voto": 30,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.87,
+    "fantamedia": 6.15
+  },
+  {
+    "nome": "Pobega",
+    "squadra": "Bologna",
+    "partite_a_voto": 20,
+    "gol": 2,
+    "assist": 2,
+    "media": 6.05,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Bernabe'",
+    "squadra": "Parma",
+    "partite_a_voto": 19,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.29,
+    "fantamedia": 6.47
+  },
+  {
+    "nome": "Lovric",
+    "squadra": "Udinese",
+    "partite_a_voto": 35,
+    "gol": 2,
+    "assist": 2,
+    "media": 5.96,
+    "fantamedia": 6.11
+  },
+  {
+    "nome": "Coulibaly L.",
+    "squadra": "Lecce",
+    "partite_a_voto": 37,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Sulemana I.",
+    "squadra": "Atalanta",
+    "partite_a_voto": 6,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 7.08
+  },
+  {
+    "nome": "Adopo",
+    "squadra": "Cagliari",
+    "partite_a_voto": 34,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.87,
+    "fantamedia": 5.91
+  },
+  {
+    "nome": "Viola",
+    "squadra": "Cagliari",
+    "partite_a_voto": 25,
+    "gol": 3,
+    "assist": 1,
+    "media": 5.94,
+    "fantamedia": 6.3
+  },
+  {
+    "nome": "Zielinski",
+    "squadra": "Inter",
+    "partite_a_voto": 20,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.98,
+    "fantamedia": 6.32
+  },
+  {
+    "nome": "Rovella",
+    "squadra": "Lazio",
+    "partite_a_voto": 33,
+    "gol": 0,
+    "assist": 3,
+    "media": 6.11,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Loftus-Cheek",
+    "squadra": "Milan",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.78
+  },
+  {
+    "nome": "Lobotka",
+    "squadra": "Napoli",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.05,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Ricci S.",
+    "squadra": "Torino",
+    "partite_a_voto": 34,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.06,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Busio",
+    "squadra": "Venezia",
+    "partite_a_voto": 31,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Lazovic",
+    "squadra": "Verona",
+    "partite_a_voto": 24,
+    "gol": 2,
+    "assist": 3,
+    "media": 5.94,
+    "fantamedia": 6.31
+  },
+  {
+    "nome": "Fadera",
+    "squadra": "Como",
+    "partite_a_voto": 24,
+    "gol": 1,
+    "assist": 3,
+    "media": 6.0,
+    "fantamedia": 6.19
+  },
+  {
+    "nome": "Perez K.",
+    "squadra": "Venezia",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.03,
+    "fantamedia": 6.16
+  },
+  {
+    "nome": "Deiola",
+    "squadra": "Cagliari",
+    "partite_a_voto": 25,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.98,
+    "fantamedia": 6.14
+  },
+  {
+    "nome": "Mazzitelli",
+    "squadra": "Como",
+    "partite_a_voto": 8,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.44
+  },
+  {
+    "nome": "Henderson L.",
+    "squadra": "Empoli",
+    "partite_a_voto": 34,
+    "gol": 0,
+    "assist": 4,
+    "media": 5.91,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Gyasi",
+    "squadra": "Empoli",
+    "partite_a_voto": 37,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.84,
+    "fantamedia": 5.91
+  },
+  {
+    "nome": "Bianco",
+    "squadra": "Monza",
+    "partite_a_voto": 35,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.87
+  },
+  {
+    "nome": "Fagioli",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 24,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.92,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Duda",
+    "squadra": "Verona",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 3,
+    "media": 5.98,
+    "fantamedia": 5.95
+  },
+  {
+    "nome": "Pisilli",
+    "squadra": "Roma",
+    "partite_a_voto": 24,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.98,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Amrabat",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Helgason",
+    "squadra": "Lecce",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 4,
+    "media": 6.03,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Yeboah J.",
+    "squadra": "Venezia",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.91,
+    "fantamedia": 5.98
+  },
+  {
+    "nome": "Gilmour",
+    "squadra": "Napoli",
+    "partite_a_voto": 17,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.06
+  },
+  {
+    "nome": "Masini",
+    "squadra": "Genoa",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.06,
+    "fantamedia": 6.17
+  },
+  {
+    "nome": "Zaniolo",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 18,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.03,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Sottil",
+    "squadra": "Milan",
+    "partite_a_voto": 21,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.95,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Messias",
+    "squadra": "Genoa",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Ramadani",
+    "squadra": "Lecce",
+    "partite_a_voto": 27,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.85,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Ciurria",
+    "squadra": "Monza",
+    "partite_a_voto": 17,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.79,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Bove",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 12,
+    "gol": 1,
+    "assist": 2,
+    "media": 6.29,
+    "fantamedia": 6.58
+  },
+  {
+    "nome": "Zalewski",
+    "squadra": "Inter",
+    "partite_a_voto": 19,
+    "gol": 1,
+    "assist": 2,
+    "media": 6.03,
+    "fantamedia": 6.21
+  },
+  {
+    "nome": "Baldanzi",
+    "squadra": "Roma",
+    "partite_a_voto": 21,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.14
+  },
+  {
+    "nome": "Doumbia I.",
+    "squadra": "Venezia",
+    "partite_a_voto": 19,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 5.95
+  },
+  {
+    "nome": "Hainaut",
+    "squadra": "Parma",
+    "partite_a_voto": 22,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 6.07
+  },
+  {
+    "nome": "Berisha M.",
+    "squadra": "Lecce",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.07,
+    "fantamedia": 5.96
+  },
+  {
+    "nome": "Perrone",
+    "squadra": "Como",
+    "partite_a_voto": 25,
+    "gol": 0,
+    "assist": 3,
+    "media": 5.94,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Atta",
+    "squadra": "Udinese",
+    "partite_a_voto": 23,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Cornet",
+    "squadra": "Genoa",
+    "partite_a_voto": 6,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.08,
+    "fantamedia": 7.25
+  },
+  {
+    "nome": "Veiga R.",
+    "squadra": "Juventus",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.08,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Karlsson",
+    "squadra": "Lecce",
+    "partite_a_voto": 17,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.82,
+    "fantamedia": 6.09
+  },
+  {
+    "nome": "Makoumbou",
+    "squadra": "Cagliari",
+    "partite_a_voto": 32,
+    "gol": 0,
+    "assist": 3,
+    "media": 5.73,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Grassi",
+    "squadra": "Empoli",
+    "partite_a_voto": 28,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.84
+  },
+  {
+    "nome": "Badelj",
+    "squadra": "Genoa",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.98,
+    "fantamedia": 6.05
+  },
+  {
+    "nome": "Malinovskyi",
+    "squadra": "Genoa",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 2,
+    "media": 6.33,
+    "fantamedia": 6.44
+  },
+  {
+    "nome": "Castrovilli",
+    "squadra": "Monza",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.89,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Payero",
+    "squadra": "Udinese",
+    "partite_a_voto": 25,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.9,
+    "fantamedia": 5.96
+  },
+  {
+    "nome": "Tessmann",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Serdar",
+    "squadra": "Verona",
+    "partite_a_voto": 21,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.79,
+    "fantamedia": 6.02
+  },
+  {
+    "nome": "Suslov",
+    "squadra": "Verona",
+    "partite_a_voto": 31,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.84,
+    "fantamedia": 5.76
+  },
+  {
+    "nome": "Karlstrom",
+    "squadra": "Udinese",
+    "partite_a_voto": 37,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.85,
+    "fantamedia": 5.78
+  },
+  {
+    "nome": "Richardson",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 25,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.78,
+    "fantamedia": 5.84
+  },
+  {
+    "nome": "Rui Modesto",
+    "squadra": "Udinese",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.96,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Felici",
+    "squadra": "Cagliari",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 3,
+    "media": 5.83,
+    "fantamedia": 5.97
+  },
+  {
+    "nome": "Barak",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Pierret",
+    "squadra": "Lecce",
+    "partite_a_voto": 30,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.72
+  },
+  {
+    "nome": "Zarraga",
+    "squadra": "Udinese",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.78,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Kastanos",
+    "squadra": "Verona",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.89,
+    "fantamedia": 5.95
+  },
+  {
+    "nome": "Engelhardt",
+    "squadra": "Como",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.81,
+    "fantamedia": 5.97
+  },
+  {
+    "nome": "Sensi",
+    "squadra": "Monza",
+    "partite_a_voto": 7,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.93,
+    "fantamedia": 6.36
+  },
+  {
+    "nome": "Iling Junior",
+    "squadra": "Bologna",
+    "partite_a_voto": 4,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.75
+  },
+  {
+    "nome": "Keita M.",
+    "squadra": "Parma",
+    "partite_a_voto": 28,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.73,
+    "fantamedia": 5.66
+  },
+  {
+    "nome": "Venturino",
+    "squadra": "Genoa",
+    "partite_a_voto": 3,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.83,
+    "fantamedia": 8.83
+  },
+  {
+    "nome": "Bernede",
+    "squadra": "Verona",
+    "partite_a_voto": 12,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.79,
+    "fantamedia": 5.96
+  },
+  {
+    "nome": "Moro N.",
+    "squadra": "Bologna",
+    "partite_a_voto": 16,
+    "gol": 0,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.03
+  },
+  {
+    "nome": "Urbanski",
+    "squadra": "Monza",
+    "partite_a_voto": 12,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Akpa Akpro",
+    "squadra": "Monza",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.57,
+    "fantamedia": 5.43
+  },
+  {
+    "nome": "Kaba",
+    "squadra": "Lecce",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Bennacer",
+    "squadra": "Milan",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Musah",
+    "squadra": "Milan",
+    "partite_a_voto": 26,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.69,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Folorunsho",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Linetty",
+    "squadra": "Torino",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.77,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Ilic",
+    "squadra": "Torino",
+    "partite_a_voto": 16,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.97
+  },
+  {
+    "nome": "Harroui",
+    "squadra": "Verona",
+    "partite_a_voto": 10,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.95,
+    "fantamedia": 6.4
+  },
+  {
+    "nome": "Billing",
+    "squadra": "Napoli",
+    "partite_a_voto": 6,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.92,
+    "fantamedia": 6.33
+  },
+  {
+    "nome": "Onana J.",
+    "squadra": "Genoa",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.79
+  },
+  {
+    "nome": "Prati",
+    "squadra": "Cagliari",
+    "partite_a_voto": 10,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.85,
+    "fantamedia": 5.8
+  },
+  {
+    "nome": "Thorsby",
+    "squadra": "Genoa",
+    "partite_a_voto": 27,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.78,
+    "fantamedia": 5.65
+  },
+  {
+    "nome": "Kostic",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Tchaouna",
+    "squadra": "Lazio",
+    "partite_a_voto": 20,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.72,
+    "fantamedia": 5.78
+  },
+  {
+    "nome": "Maleh",
+    "squadra": "Empoli",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.82,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Zeroli",
+    "squadra": "Monza",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.71,
+    "fantamedia": 5.71
+  },
+  {
+    "nome": "Bondo",
+    "squadra": "Milan",
+    "partite_a_voto": 22,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 5.77
+  },
+  {
+    "nome": "Cajuste",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Camara D.",
+    "squadra": "Parma",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.04,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Le Fee",
+    "squadra": "Roma",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Tameze",
+    "squadra": "Torino",
+    "partite_a_voto": 15,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Belahyane",
+    "squadra": "Lazio",
+    "partite_a_voto": 26,
+    "gol": 0,
+    "assist": 2,
+    "media": 5.77,
+    "fantamedia": 5.69
+  },
+  {
+    "nome": "Martins K.",
+    "squadra": "Monza",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.92,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Ndour",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.71,
+    "fantamedia": 5.64
+  },
+  {
+    "nome": "Gourna-Douath",
+    "squadra": "Roma",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "Aebischer",
+    "squadra": "Bologna",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.77,
+    "fantamedia": 5.69
+  },
+  {
+    "nome": "Braunoder",
+    "squadra": "Como",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.12,
+    "fantamedia": 4.75
+  },
+  {
+    "nome": "Verdi",
+    "squadra": "Como",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.62
+  },
+  {
+    "nome": "Haas",
+    "squadra": "Empoli",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.08,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Bohinen",
+    "squadra": "Genoa",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.0,
+    "fantamedia": 5.0
+  },
+  {
+    "nome": "Oudin",
+    "squadra": "Lecce",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.58,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Gagliardini",
+    "squadra": "Monza",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.58
+  },
+  {
+    "nome": "Pessina",
+    "squadra": "Monza",
+    "partite_a_voto": 11,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.09,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Machin",
+    "squadra": "Monza",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Forson O.",
+    "squadra": "Monza",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Estevez",
+    "squadra": "Parma",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.79,
+    "fantamedia": 5.71
+  },
+  {
+    "nome": "Duncan",
+    "squadra": "Venezia",
+    "partite_a_voto": 14,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.79
+  },
+  {
+    "nome": "Bjarkason",
+    "squadra": "Venezia",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Dani Silva",
+    "squadra": "Verona",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.33,
+    "fantamedia": 5.25
+  },
+  {
+    "nome": "Mitrovic S.",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Zurkowski",
+    "squadra": "Empoli",
+    "partite_a_voto": 4,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Buchanan T.",
+    "squadra": "Inter",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Kasa",
+    "squadra": "Genoa",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Pereiro",
+    "squadra": "Genoa",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Condè",
+    "squadra": "Venezia",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Niasse",
+    "squadra": "Verona",
+    "partite_a_voto": 11,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.32
+  },
+  {
+    "nome": "Kovalenko",
+    "squadra": "Empoli",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Perciun",
+    "squadra": "Torino",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Cacciamani",
+    "squadra": "Torino",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "El Azzouzi",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Jankto",
+    "squadra": "Cagliari",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Abildgaard",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Baselli",
+    "squadra": "Como",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Bellemo",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Kone B.",
+    "squadra": "Como",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Belardinelli",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Degli Innocenti",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Rafia",
+    "squadra": "Lecce",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.78,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Listkowski",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Marchwinski",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Valoti",
+    "squadra": "Monza",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Vignato S.",
+    "squadra": "Monza",
+    "partite_a_voto": 12,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Cyprien",
+    "squadra": "Parma",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Jajalo",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Crnigoj",
+    "squadra": "Venezia",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Lella",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Adzic",
+    "squadra": "Juventus",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Liberali",
+    "squadra": "Milan",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "El Haddad",
+    "squadra": "Venezia",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Cassa",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Byar",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Cisse' A.",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Alidou",
+    "squadra": "Verona",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Manzoni",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Kouda",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Vos",
+    "squadra": "Milan",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Hasa",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Arthur Melo",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Basic",
+    "squadra": "Lazio",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Melegoni",
+    "squadra": "Genoa",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Pafundi",
+    "squadra": "Udinese",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Ibrahimovic A.",
+    "squadra": "Lazio",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Alli",
+    "squadra": "Como",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 4.5,
+    "fantamedia": 3.5
+  },
+  {
+    "nome": "Cuenca H.",
+    "squadra": "Genoa",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Retegui",
+    "squadra": "Atalanta",
+    "partite_a_voto": 36,
+    "gol": 25,
+    "assist": 7,
+    "media": 6.5,
+    "fantamedia": 8.67
+  },
+  {
+    "nome": "Kean",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 32,
+    "gol": 19,
+    "assist": 2,
+    "media": 6.42,
+    "fantamedia": 8.08
+  },
+  {
+    "nome": "Lookman",
+    "squadra": "Atalanta",
+    "partite_a_voto": 31,
+    "gol": 15,
+    "assist": 4,
+    "media": 6.42,
+    "fantamedia": 7.94
+  },
+  {
+    "nome": "Osimhen",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Thuram",
+    "squadra": "Inter",
+    "partite_a_voto": 32,
+    "gol": 14,
+    "assist": 4,
+    "media": 6.33,
+    "fantamedia": 7.75
+  },
+  {
+    "nome": "Lukaku",
+    "squadra": "Napoli",
+    "partite_a_voto": 36,
+    "gol": 14,
+    "assist": 9,
+    "media": 6.29,
+    "fantamedia": 7.57
+  },
+  {
+    "nome": "Martinez L.",
+    "squadra": "Inter",
+    "partite_a_voto": 31,
+    "gol": 12,
+    "assist": 3,
+    "media": 6.19,
+    "fantamedia": 7.44
+  },
+  {
+    "nome": "Kvaratskhelia",
+    "squadra": "Napoli",
+    "partite_a_voto": 17,
+    "gol": 5,
+    "assist": 3,
+    "media": 6.21,
+    "fantamedia": 7.24
+  },
+  {
+    "nome": "Pedro",
+    "squadra": "Lazio",
+    "partite_a_voto": 28,
+    "gol": 10,
+    "assist": 1,
+    "media": 6.21,
+    "fantamedia": 7.27
+  },
+  {
+    "nome": "Gimenez",
+    "squadra": "Milan",
+    "partite_a_voto": 12,
+    "gol": 5,
+    "assist": 1,
+    "media": 5.88,
+    "fantamedia": 6.75
+  },
+  {
+    "nome": "Vlahovic",
+    "squadra": "Juventus",
+    "partite_a_voto": 25,
+    "gol": 10,
+    "assist": 3,
+    "media": 6.12,
+    "fantamedia": 7.38
+  },
+  {
+    "nome": "Dovbyk",
+    "squadra": "Roma",
+    "partite_a_voto": 32,
+    "gol": 12,
+    "assist": 2,
+    "media": 6.0,
+    "fantamedia": 7.19
+  },
+  {
+    "nome": "Yildiz",
+    "squadra": "Juventus",
+    "partite_a_voto": 34,
+    "gol": 7,
+    "assist": 4,
+    "media": 6.34,
+    "fantamedia": 7.01
+  },
+  {
+    "nome": "Castellanos",
+    "squadra": "Lazio",
+    "partite_a_voto": 29,
+    "gol": 10,
+    "assist": 3,
+    "media": 6.29,
+    "fantamedia": 7.17
+  },
+  {
+    "nome": "Leao",
+    "squadra": "Milan",
+    "partite_a_voto": 34,
+    "gol": 8,
+    "assist": 8,
+    "media": 6.19,
+    "fantamedia": 7.06
+  },
+  {
+    "nome": "Soule'",
+    "squadra": "Roma",
+    "partite_a_voto": 23,
+    "gol": 5,
+    "assist": 5,
+    "media": 6.24,
+    "fantamedia": 7.04
+  },
+  {
+    "nome": "De Ketelaere",
+    "squadra": "Atalanta",
+    "partite_a_voto": 34,
+    "gol": 7,
+    "assist": 5,
+    "media": 6.19,
+    "fantamedia": 6.94
+  },
+  {
+    "nome": "Esposito Se.",
+    "squadra": "Empoli",
+    "partite_a_voto": 33,
+    "gol": 8,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 6.79
+  },
+  {
+    "nome": "Gudmundsson A.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 21,
+    "gol": 6,
+    "assist": 1,
+    "media": 6.12,
+    "fantamedia": 6.98
+  },
+  {
+    "nome": "Lucca",
+    "squadra": "Udinese",
+    "partite_a_voto": 33,
+    "gol": 12,
+    "assist": 0,
+    "media": 6.11,
+    "fantamedia": 7.05
+  },
+  {
+    "nome": "Dia",
+    "squadra": "Lazio",
+    "partite_a_voto": 35,
+    "gol": 9,
+    "assist": 4,
+    "media": 6.01,
+    "fantamedia": 6.87
+  },
+  {
+    "nome": "Krstovic",
+    "squadra": "Lecce",
+    "partite_a_voto": 37,
+    "gol": 11,
+    "assist": 5,
+    "media": 6.05,
+    "fantamedia": 6.92
+  },
+  {
+    "nome": "Morata",
+    "squadra": "Milan",
+    "partite_a_voto": 16,
+    "gol": 5,
+    "assist": 0,
+    "media": 6.09,
+    "fantamedia": 6.88
+  },
+  {
+    "nome": "Dybala",
+    "squadra": "Roma",
+    "partite_a_voto": 20,
+    "gol": 6,
+    "assist": 3,
+    "media": 6.48,
+    "fantamedia": 7.48
+  },
+  {
+    "nome": "Adams C.",
+    "squadra": "Torino",
+    "partite_a_voto": 35,
+    "gol": 9,
+    "assist": 4,
+    "media": 6.0,
+    "fantamedia": 6.76
+  },
+  {
+    "nome": "Kolo Muani",
+    "squadra": "Juventus",
+    "partite_a_voto": 16,
+    "gol": 8,
+    "assist": 1,
+    "media": 6.22,
+    "fantamedia": 7.78
+  },
+  {
+    "nome": "Piccoli",
+    "squadra": "Cagliari",
+    "partite_a_voto": 37,
+    "gol": 10,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.76
+  },
+  {
+    "nome": "Chiesa",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Raspadori",
+    "squadra": "Napoli",
+    "partite_a_voto": 18,
+    "gol": 6,
+    "assist": 1,
+    "media": 6.19,
+    "fantamedia": 7.22
+  },
+  {
+    "nome": "Pohjanpalo",
+    "squadra": "Venezia",
+    "partite_a_voto": 20,
+    "gol": 6,
+    "assist": 0,
+    "media": 6.05,
+    "fantamedia": 6.78
+  },
+  {
+    "nome": "Pinamonti",
+    "squadra": "Genoa",
+    "partite_a_voto": 36,
+    "gol": 10,
+    "assist": 1,
+    "media": 5.96,
+    "fantamedia": 6.68
+  },
+  {
+    "nome": "Shomurodov",
+    "squadra": "Roma",
+    "partite_a_voto": 20,
+    "gol": 4,
+    "assist": 2,
+    "media": 6.1,
+    "fantamedia": 6.8
+  },
+  {
+    "nome": "Dominguez B.",
+    "squadra": "Bologna",
+    "partite_a_voto": 20,
+    "gol": 3,
+    "assist": 2,
+    "media": 6.28,
+    "fantamedia": 6.82
+  },
+  {
+    "nome": "Odgaard",
+    "squadra": "Bologna",
+    "partite_a_voto": 28,
+    "gol": 6,
+    "assist": 2,
+    "media": 6.14,
+    "fantamedia": 6.84
+  },
+  {
+    "nome": "Castro S.",
+    "squadra": "Bologna",
+    "partite_a_voto": 33,
+    "gol": 8,
+    "assist": 4,
+    "media": 6.17,
+    "fantamedia": 6.76
+  },
+  {
+    "nome": "Thauvin",
+    "squadra": "Udinese",
+    "partite_a_voto": 24,
+    "gol": 8,
+    "assist": 3,
+    "media": 6.31,
+    "fantamedia": 7.19
+  },
+  {
+    "nome": "Cutrone",
+    "squadra": "Como",
+    "partite_a_voto": 33,
+    "gol": 7,
+    "assist": 4,
+    "media": 6.02,
+    "fantamedia": 6.67
+  },
+  {
+    "nome": "Bonny",
+    "squadra": "Parma",
+    "partite_a_voto": 37,
+    "gol": 6,
+    "assist": 4,
+    "media": 6.03,
+    "fantamedia": 6.51
+  },
+  {
+    "nome": "Cambiaghi",
+    "squadra": "Bologna",
+    "partite_a_voto": 17,
+    "gol": 1,
+    "assist": 3,
+    "media": 6.15,
+    "fantamedia": 6.5
+  },
+  {
+    "nome": "Beltran L.",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 30,
+    "gol": 5,
+    "assist": 4,
+    "media": 5.98,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Scamacca",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Arnautovic",
+    "squadra": "Inter",
+    "partite_a_voto": 14,
+    "gol": 4,
+    "assist": 2,
+    "media": 6.14,
+    "fantamedia": 7.11
+  },
+  {
+    "nome": "Colombo",
+    "squadra": "Empoli",
+    "partite_a_voto": 36,
+    "gol": 6,
+    "assist": 2,
+    "media": 5.9,
+    "fantamedia": 6.39
+  },
+  {
+    "nome": "Tengstedt",
+    "squadra": "Verona",
+    "partite_a_voto": 23,
+    "gol": 6,
+    "assist": 1,
+    "media": 5.91,
+    "fantamedia": 6.7
+  },
+  {
+    "nome": "Gonzalez N.",
+    "squadra": "Juventus",
+    "partite_a_voto": 23,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.96,
+    "fantamedia": 6.37
+  },
+  {
+    "nome": "Isaksen",
+    "squadra": "Lazio",
+    "partite_a_voto": 37,
+    "gol": 4,
+    "assist": 1,
+    "media": 6.05,
+    "fantamedia": 6.34
+  },
+  {
+    "nome": "Djuric",
+    "squadra": "Parma",
+    "partite_a_voto": 23,
+    "gol": 5,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.61
+  },
+  {
+    "nome": "Zapata D.",
+    "squadra": "Torino",
+    "partite_a_voto": 7,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.57,
+    "fantamedia": 7.79
+  },
+  {
+    "nome": "Mosquera",
+    "squadra": "Verona",
+    "partite_a_voto": 33,
+    "gol": 5,
+    "assist": 1,
+    "media": 5.88,
+    "fantamedia": 6.3
+  },
+  {
+    "nome": "Correa",
+    "squadra": "Inter",
+    "partite_a_voto": 15,
+    "gol": 2,
+    "assist": 2,
+    "media": 6.13,
+    "fantamedia": 6.57
+  },
+  {
+    "nome": "Sarr A.",
+    "squadra": "Verona",
+    "partite_a_voto": 29,
+    "gol": 4,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 6.26
+  },
+  {
+    "nome": "Dallinga",
+    "squadra": "Bologna",
+    "partite_a_voto": 23,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.96,
+    "fantamedia": 6.41
+  },
+  {
+    "nome": "Jovic",
+    "squadra": "Milan",
+    "partite_a_voto": 12,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 6.33
+  },
+  {
+    "nome": "Mota",
+    "squadra": "Monza",
+    "partite_a_voto": 31,
+    "gol": 5,
+    "assist": 1,
+    "media": 5.84,
+    "fantamedia": 6.31
+  },
+  {
+    "nome": "Mbangula",
+    "squadra": "Juventus",
+    "partite_a_voto": 15,
+    "gol": 3,
+    "assist": 3,
+    "media": 6.33,
+    "fantamedia": 7.13
+  },
+  {
+    "nome": "Joao Felix",
+    "squadra": "Milan",
+    "partite_a_voto": 12,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.04,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Toure' E.",
+    "squadra": "Atalanta",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Caprari",
+    "squadra": "Monza",
+    "partite_a_voto": 30,
+    "gol": 3,
+    "assist": 2,
+    "media": 5.97,
+    "fantamedia": 6.28
+  },
+  {
+    "nome": "Douvikas",
+    "squadra": "Como",
+    "partite_a_voto": 12,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.21,
+    "fantamedia": 6.75
+  },
+  {
+    "nome": "Luvumbo",
+    "squadra": "Cagliari",
+    "partite_a_voto": 26,
+    "gol": 2,
+    "assist": 2,
+    "media": 5.98,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Belotti",
+    "squadra": "Como",
+    "partite_a_voto": 12,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.96,
+    "fantamedia": 6.42
+  },
+  {
+    "nome": "Ekuban",
+    "squadra": "Genoa",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 3,
+    "media": 6.0,
+    "fantamedia": 6.31
+  },
+  {
+    "nome": "Noslin",
+    "squadra": "Lazio",
+    "partite_a_voto": 19,
+    "gol": 2,
+    "assist": 2,
+    "media": 6.0,
+    "fantamedia": 6.37
+  },
+  {
+    "nome": "Pierotti",
+    "squadra": "Lecce",
+    "partite_a_voto": 35,
+    "gol": 4,
+    "assist": 1,
+    "media": 5.81,
+    "fantamedia": 6.1
+  },
+  {
+    "nome": "Abraham",
+    "squadra": "Milan",
+    "partite_a_voto": 24,
+    "gol": 3,
+    "assist": 4,
+    "media": 5.94,
+    "fantamedia": 6.33
+  },
+  {
+    "nome": "Gytkjaer",
+    "squadra": "Venezia",
+    "partite_a_voto": 17,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.79,
+    "fantamedia": 6.15
+  },
+  {
+    "nome": "Keita B.",
+    "squadra": "Monza",
+    "partite_a_voto": 10,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 6.4
+  },
+  {
+    "nome": "Vitinha O.",
+    "squadra": "Genoa",
+    "partite_a_voto": 22,
+    "gol": 2,
+    "assist": 3,
+    "media": 5.89,
+    "fantamedia": 6.25
+  },
+  {
+    "nome": "Cheddira",
+    "squadra": "Napoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Bravo",
+    "squadra": "Udinese",
+    "partite_a_voto": 16,
+    "gol": 2,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.28
+  },
+  {
+    "nome": "Coman F.",
+    "squadra": "Cagliari",
+    "partite_a_voto": 9,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.06,
+    "fantamedia": 6.28
+  },
+  {
+    "nome": "Fila",
+    "squadra": "Venezia",
+    "partite_a_voto": 9,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 6.33
+  },
+  {
+    "nome": "Pellegrino M.",
+    "squadra": "Parma",
+    "partite_a_voto": 11,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.14,
+    "fantamedia": 6.86
+  },
+  {
+    "nome": "Taremi",
+    "squadra": "Inter",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.97,
+    "fantamedia": 6.22
+  },
+  {
+    "nome": "Simeone",
+    "squadra": "Napoli",
+    "partite_a_voto": 19,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.92,
+    "fantamedia": 6.11
+  },
+  {
+    "nome": "Davis K.",
+    "squadra": "Udinese",
+    "partite_a_voto": 16,
+    "gol": 2,
+    "assist": 1,
+    "media": 6.0,
+    "fantamedia": 6.38
+  },
+  {
+    "nome": "Pavoletti",
+    "squadra": "Cagliari",
+    "partite_a_voto": 11,
+    "gol": 2,
+    "assist": 0,
+    "media": 5.95,
+    "fantamedia": 6.36
+  },
+  {
+    "nome": "Nzola",
+    "squadra": "Fiorentina",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Cancellieri",
+    "squadra": "Parma",
+    "partite_a_voto": 25,
+    "gol": 3,
+    "assist": 0,
+    "media": 5.76,
+    "fantamedia": 6.04
+  },
+  {
+    "nome": "Ekhator",
+    "squadra": "Genoa",
+    "partite_a_voto": 15,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.87,
+    "fantamedia": 6.1
+  },
+  {
+    "nome": "Karamoh",
+    "squadra": "Torino",
+    "partite_a_voto": 21,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.9,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Caputo",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Kouame'",
+    "squadra": "Empoli",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.77,
+    "fantamedia": 5.93
+  },
+  {
+    "nome": "Charpentier",
+    "squadra": "Parma",
+    "partite_a_voto": 9,
+    "gol": 1,
+    "assist": 2,
+    "media": 6.17,
+    "fantamedia": 6.67
+  },
+  {
+    "nome": "Sanabria",
+    "squadra": "Torino",
+    "partite_a_voto": 22,
+    "gol": 2,
+    "assist": 1,
+    "media": 5.7,
+    "fantamedia": 5.84
+  },
+  {
+    "nome": "Rocha Livramento",
+    "squadra": "Verona",
+    "partite_a_voto": 22,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.8,
+    "fantamedia": 5.89
+  },
+  {
+    "nome": "Almqvist",
+    "squadra": "Parma",
+    "partite_a_voto": 26,
+    "gol": 1,
+    "assist": 1,
+    "media": 5.79,
+    "fantamedia": 5.85
+  },
+  {
+    "nome": "Rebic",
+    "squadra": "Lecce",
+    "partite_a_voto": 18,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.89,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Okafor",
+    "squadra": "Napoli",
+    "partite_a_voto": 12,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.88,
+    "fantamedia": 6.12
+  },
+  {
+    "nome": "Pellegri",
+    "squadra": "Empoli",
+    "partite_a_voto": 9,
+    "gol": 3,
+    "assist": 0,
+    "media": 6.11,
+    "fantamedia": 6.94
+  },
+  {
+    "nome": "Pierini",
+    "squadra": "Venezia",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Tavsan",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Ekong",
+    "squadra": "Empoli",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.94,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Haj Mohamed",
+    "squadra": "Parma",
+    "partite_a_voto": 11,
+    "gol": 1,
+    "assist": 0,
+    "media": 5.91,
+    "fantamedia": 6.05
+  },
+  {
+    "nome": "N'Dri",
+    "squadra": "Lecce",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.86,
+    "fantamedia": 5.86
+  },
+  {
+    "nome": "Ganvoula",
+    "squadra": "Monza",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Lapadula",
+    "squadra": "Cagliari",
+    "partite_a_voto": 10,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.7
+  },
+  {
+    "nome": "Shpendi S.",
+    "squadra": "Empoli",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Mihaila",
+    "squadra": "Parma",
+    "partite_a_voto": 20,
+    "gol": 0,
+    "assist": 3,
+    "media": 5.78,
+    "fantamedia": 5.88
+  },
+  {
+    "nome": "Brenner",
+    "squadra": "Udinese",
+    "partite_a_voto": 6,
+    "gol": 1,
+    "assist": 2,
+    "media": 5.92,
+    "fantamedia": 6.75
+  },
+  {
+    "nome": "Success",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sanchez",
+    "squadra": "Udinese",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.83,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Maric",
+    "squadra": "Venezia",
+    "partite_a_voto": 8,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.75
+  },
+  {
+    "nome": "Mutandwa",
+    "squadra": "Cagliari",
+    "partite_a_voto": 5,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.9,
+    "fantamedia": 5.9
+  },
+  {
+    "nome": "Gabrielloni",
+    "squadra": "Como",
+    "partite_a_voto": 4,
+    "gol": 1,
+    "assist": 1,
+    "media": 6.5,
+    "fantamedia": 7.38
+  },
+  {
+    "nome": "Banda",
+    "squadra": "Lecce",
+    "partite_a_voto": 13,
+    "gol": 0,
+    "assist": 1,
+    "media": 5.77,
+    "fantamedia": 5.81
+  },
+  {
+    "nome": "Burnete",
+    "squadra": "Lecce",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.5,
+    "fantamedia": 5.5
+  },
+  {
+    "nome": "Camarda",
+    "squadra": "Milan",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.92,
+    "fantamedia": 5.92
+  },
+  {
+    "nome": "Ngonge",
+    "squadra": "Napoli",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.75,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Benedyczak",
+    "squadra": "Parma",
+    "partite_a_voto": 6,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.67
+  },
+  {
+    "nome": "Partipilo",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Solbakken",
+    "squadra": "Empoli",
+    "partite_a_voto": 18,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.67,
+    "fantamedia": 5.61
+  },
+  {
+    "nome": "Cerri",
+    "squadra": "Como",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.17,
+    "fantamedia": 5.17
+  },
+  {
+    "nome": "Vlahovic V.",
+    "squadra": "Atalanta",
+    "partite_a_voto": 2,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Lambourde",
+    "squadra": "Verona",
+    "partite_a_voto": 3,
+    "gol": 1,
+    "assist": 0,
+    "media": 6.17,
+    "fantamedia": 7.17
+  },
+  {
+    "nome": "Balotelli",
+    "squadra": "Genoa",
+    "partite_a_voto": 3,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.83
+  },
+  {
+    "nome": "Jasim",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Gioacchini",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Ankeye",
+    "squadra": "Genoa",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Milik",
+    "squadra": "Juventus",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Petagna",
+    "squadra": "Monza",
+    "partite_a_voto": 7,
+    "gol": 0,
+    "assist": 0,
+    "media": 5.36,
+    "fantamedia": 5.29
+  },
+  {
+    "nome": "Joao Costa",
+    "squadra": "Roma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Pizarro",
+    "squadra": "Udinese",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Cruz",
+    "squadra": "Verona",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Raimondo",
+    "squadra": "Venezia",
+    "partite_a_voto": 1,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 6.0
+  },
+  {
+    "nome": "Njie",
+    "squadra": "Torino",
+    "partite_a_voto": 9,
+    "gol": 0,
+    "assist": 0,
+    "media": 6.0,
+    "fantamedia": 5.94
+  },
+  {
+    "nome": "Kowalski",
+    "squadra": "Parma",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Sansone",
+    "squadra": "Lecce",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Pedrola",
+    "squadra": "Bologna",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Salama",
+    "squadra": "Torino",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  },
+  {
+    "nome": "Azon",
+    "squadra": "Como",
+    "partite_a_voto": 0,
+    "gol": 0,
+    "assist": 0,
+    "media": 0.0,
+    "fantamedia": 0.0
+  }
+]
