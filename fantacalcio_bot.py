@@ -1,10 +1,11 @@
+import os
 import json
 import unicodedata
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 from rapidfuzz import fuzz, process
 
-TELEGRAM_TOKEN = "8416948981:AAFq-NMzcwKC9mLtX-zqR5cl8DUhWc6_Dwg"
+TOKEN = os.getenv("8416948981:AAFq-NMzcwKC9mLtX-zqR5cl8DUhWc6_Dwg")
 
 # Carica i giocatori dal file JSON
 with open("giocatori.json", "r", encoding="utf-8") as f:
@@ -128,3 +129,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
